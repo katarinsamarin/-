@@ -5,7 +5,7 @@ import os
 import requests
 
 
-API = "https://api.telegram.org/bot{token}/{method}"
+API = "https://api.telegram.org/bot8913966807:AAFz--QoO5bdMz_LY0JKM2UmV3hA_xl2ik0/{method}"
 
 
 def _call(token: str, method: str, payload: dict | None = None) -> dict:
